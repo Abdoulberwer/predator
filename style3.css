@@ -1,0 +1,32 @@
+body{
+    background-image: url(new/e90fa6f4-ad0a-4964-a8b7-8addee814eb8.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+fieldset{
+    background: linear-gradient(to right, skyblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a:visited{
+    color: rgb(23, 19, 216);
+}
+a:active{
+    color: yellowgreen;
+}
+link{
+    color: rgb(46, 150, 190);
+}
+
+ion-icon{
+    size-adjust:20px;
+    margin: 5px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 1px 4px 2px 2px #646363;
+    font-size: 20px;
+    line-height: 2dvi;
+    transition: all 0.3s linear;
+    transform: scale(1.2);
+}
